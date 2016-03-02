@@ -16,7 +16,7 @@
         <commons.fileupload.version>1.2.1</commons.fileupload.version>
         <javassist.version>3.12.1.GA</javassist.version>
         <cxf.version>3.0.2</cxf.version>
-		<hadoop.version>2.6.0</hadoop.version>
+		<hadoop.version>2.6.3</hadoop.version>
 		<fastjson.version>1.1.36</fastjson.version>
     </properties>
 
