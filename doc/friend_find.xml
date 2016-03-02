@@ -1,0 +1,4 @@
+<Context  
+	path="/friend_find" docBase="F:\Hadoop\WorkSpace\HadoopFriendRecommend\target\friend_find"
+	privileged="true" reloadable="false">
+</Context>

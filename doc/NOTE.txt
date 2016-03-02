@@ -1,0 +1,6 @@
+Tomcat部署时，不能右键选择"Add Deployment..."，只能在tomcat\conf\Catalina\localhost下创建friend_find.xml，否则数据库初始化不成功.
+
+<Context  
+	path="/friend_find" docBase="F:\Hadoop\WorkSpace\HadoopFriendRecommend\target\friend_find"
+	privileged="true" reloadable="false">
+</Context>
